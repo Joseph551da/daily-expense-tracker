@@ -1,4 +1,5 @@
-# Daily Expense Tracker Welcome to the **Daily Expense Tracker** project! This web application allows users to efficiently track their daily expenses and generate detailed reports based on date ranges.
+# Daily Expense Tracker 
+Welcome to the **Daily Expense Tracker** project! This web application allows users to efficiently track their daily expenses and generate detailed reports based on date ranges.
 ## Features
 
 - **User Authentication**: Secure login and session management to ensure only authorized users can access their expense data.
